@@ -1,5 +1,5 @@
 # ZOMBIFIED
-Bienvenido a la demo de un juego de elige tu propia aventura con componentes de RPG tradicional.
+Bienvenido a la base de datos de un juego RPG tradicional ejecutado a través de la consola de java y con una demo web.
 ## INTRODUCCIÓN
 Base de datos del videojuego Zombified creado por Carlos Corchado, Berta Díaz y Alejandro Caamaño.
 ## COMO USAR LA BASE DE DATOS
